@@ -1,6 +1,5 @@
 # Uses python3
 import sys
-import math
 
 def optimal_sequence(n):
     minNumOperations = [(10**9,0)]*(n+1)
